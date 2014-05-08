@@ -1,8 +1,20 @@
 <div class="header">
-  <ul class="nav nav-pills pull-right">
+  <!-- <ul class="nav nav-pills pull-right">
     <li class="active"><a ng-href="#">Home</a></li>
     <li><a ng-href="#">About</a></li>
     <li><a ng-href="#">Contact</a></li>
+  </ul> -->
+  <ul>
+    <li class="dropdown">
+      <a class="dropdown-toggle">
+        Click me to see some awesome things!
+      </a>
+      <ul class="dropdown-menu">
+        <li ng-repeat="thing in awesomeThings">
+          <a>{{thing}}</a>
+        </li>
+      </ul>
+    </li>
   </ul>
   <h3 class="text-muted">angular_yeoman_grunt_bower</h3>
 </div>
