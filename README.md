@@ -1,0 +1,1 @@
+## A simple app created with AngularJS using Yeoman, Grunt & Bower. Includes Jasmine & Karma.
