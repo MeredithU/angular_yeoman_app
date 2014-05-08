@@ -1,4 +1,4 @@
+# Ignore pattern for Production
+
 node_modules
-.tmp
-.sass-cache
-app/bower_components
+
