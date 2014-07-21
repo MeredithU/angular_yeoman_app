@@ -1,1 +1,5 @@
-## A simple app created with AngularJS using Yeoman, Grunt & Bower. Includes Jasmine & Karma.
+## One page app created with AngularJS using Yeoman, Grunt & Bower.
+
+## Home Page Screenshot
+
+![screenshot](/app/images/screenshot.png)
